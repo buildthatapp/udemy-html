@@ -1,0 +1,20 @@
+body {
+	display: block;
+}
+table {
+	margin: 0 auto;
+	padding: 100px;
+}
+
+.table-top {
+	border-bottom: 1px solid black;
+}
+
+.table-bottom {
+	border-top: 1px solid black;
+}
+
+.table-middle {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
